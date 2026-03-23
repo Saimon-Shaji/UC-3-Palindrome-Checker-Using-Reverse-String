@@ -4,7 +4,7 @@ public class UseCase6PalindromeCheckerApp {
 
     public static void main(String[] args) {
 
-        String input = "madam";
+        String input = "lol";
 
         Queue<Character> queue = new LinkedList<>();
         Stack<Character> stack = new Stack<>();
